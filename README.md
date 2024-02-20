@@ -15,7 +15,7 @@
 
 - Clone this repository and install the dependencies with the following command:
 
-        git clone https://github.com/)x5FE/mac_adress_changer.git
+        git clone https://github.com/0x5FE/mac_adress_changer.git
 
 - navigate to the folder
 
